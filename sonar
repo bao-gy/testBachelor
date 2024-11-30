@@ -1,0 +1,2 @@
+\Users\nguye\Downloads\sonar-scanner-cli-6.2.1.4610-windows-x64\sonar-scanner-6.2.1.4610-windows-x64\bin
+sonar-scanner.bat -D"sonar.projectKey=test" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.token=sqp_4c343c0efde2aaa0e499a90a9fd619e30a590761"
